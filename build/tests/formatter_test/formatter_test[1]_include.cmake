@@ -1,0 +1,5 @@
+if(EXISTS "/home/kali/empty4/lab04/build/tests/formatter_test/formatter_test[1]_tests.cmake")
+  include("/home/kali/empty4/lab04/build/tests/formatter_test/formatter_test[1]_tests.cmake")
+else()
+  add_test(formatter_test_NOT_BUILT formatter_test_NOT_BUILT)
+endif()

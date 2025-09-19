@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/formatter_test.dir/link.d CMakeFiles/formatter_test.dir/test_formatter.cpp.o -o formatter_test  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a ../../lib/libformatter.a /usr/lib/x86_64-linux-gnu/libgtest.a

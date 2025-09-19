@@ -1,0 +1,5 @@
+if(EXISTS "/home/kali/empty4/lab04/build/tests/solver_test/solver_test[1]_tests.cmake")
+  include("/home/kali/empty4/lab04/build/tests/solver_test/solver_test[1]_tests.cmake")
+else()
+  add_test(solver_test_NOT_BUILT solver_test_NOT_BUILT)
+endif()

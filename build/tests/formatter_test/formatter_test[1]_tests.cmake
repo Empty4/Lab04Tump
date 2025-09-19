@@ -1,0 +1,7 @@
+add_test([=[FormatterTest.BasicFormatting]=]  /home/kali/empty4/lab04/build/tests/formatter_test/formatter_test [==[--gtest_filter=FormatterTest.BasicFormatting]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[FormatterTest.BasicFormatting]=]  PROPERTIES WORKING_DIRECTORY /home/kali/empty4/lab04/build/tests/formatter_test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[FormatterTest.EmptyString]=]  /home/kali/empty4/lab04/build/tests/formatter_test/formatter_test [==[--gtest_filter=FormatterTest.EmptyString]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[FormatterTest.EmptyString]=]  PROPERTIES WORKING_DIRECTORY /home/kali/empty4/lab04/build/tests/formatter_test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[FormatterTest.StringWithSpaces]=]  /home/kali/empty4/lab04/build/tests/formatter_test/formatter_test [==[--gtest_filter=FormatterTest.StringWithSpaces]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[FormatterTest.StringWithSpaces]=]  PROPERTIES WORKING_DIRECTORY /home/kali/empty4/lab04/build/tests/formatter_test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  formatter_test_TESTS FormatterTest.BasicFormatting FormatterTest.EmptyString FormatterTest.StringWithSpaces)

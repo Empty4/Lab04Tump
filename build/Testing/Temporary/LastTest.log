@@ -1,0 +1,273 @@
+Start testing: Sep 19 03:23 MSK
+----------------------------------------------------------
+1/10 Testing: FormatterTest.BasicFormatting
+1/10 Test: FormatterTest.BasicFormatting
+Command: "/home/kali/empty4/lab04/build/tests/formatter_test/formatter_test" "--gtest_filter=FormatterTest.BasicFormatting" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/formatter_test
+"FormatterTest.BasicFormatting" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FormatterTest.BasicFormatting
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatterTest
+[ RUN      ] FormatterTest.BasicFormatting
+[       OK ] FormatterTest.BasicFormatting (0 ms)
+[----------] 1 test from FormatterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FormatterTest.BasicFormatting" end time: Sep 19 03:23 MSK
+"FormatterTest.BasicFormatting" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: FormatterTest.EmptyString
+2/10 Test: FormatterTest.EmptyString
+Command: "/home/kali/empty4/lab04/build/tests/formatter_test/formatter_test" "--gtest_filter=FormatterTest.EmptyString" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/formatter_test
+"FormatterTest.EmptyString" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FormatterTest.EmptyString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatterTest
+[ RUN      ] FormatterTest.EmptyString
+[       OK ] FormatterTest.EmptyString (0 ms)
+[----------] 1 test from FormatterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FormatterTest.EmptyString" end time: Sep 19 03:23 MSK
+"FormatterTest.EmptyString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: FormatterTest.StringWithSpaces
+3/10 Test: FormatterTest.StringWithSpaces
+Command: "/home/kali/empty4/lab04/build/tests/formatter_test/formatter_test" "--gtest_filter=FormatterTest.StringWithSpaces" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/formatter_test
+"FormatterTest.StringWithSpaces" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FormatterTest.StringWithSpaces
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatterTest
+[ RUN      ] FormatterTest.StringWithSpaces
+[       OK ] FormatterTest.StringWithSpaces (0 ms)
+[----------] 1 test from FormatterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FormatterTest.StringWithSpaces" end time: Sep 19 03:23 MSK
+"FormatterTest.StringWithSpaces" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: FormatterExTest.BasicFormatting
+4/10 Test: FormatterExTest.BasicFormatting
+Command: "/home/kali/empty4/lab04/build/tests/formatter_ex_test/formatter_ex_test" "--gtest_filter=FormatterExTest.BasicFormatting" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/formatter_ex_test
+"FormatterExTest.BasicFormatting" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FormatterExTest.BasicFormatting
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatterExTest
+[ RUN      ] FormatterExTest.BasicFormatting
+[       OK ] FormatterExTest.BasicFormatting (0 ms)
+[----------] 1 test from FormatterExTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FormatterExTest.BasicFormatting" end time: Sep 19 03:23 MSK
+"FormatterExTest.BasicFormatting" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: FormatterExTest.EmptyString
+5/10 Test: FormatterExTest.EmptyString
+Command: "/home/kali/empty4/lab04/build/tests/formatter_ex_test/formatter_ex_test" "--gtest_filter=FormatterExTest.EmptyString" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/formatter_ex_test
+"FormatterExTest.EmptyString" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FormatterExTest.EmptyString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatterExTest
+[ RUN      ] FormatterExTest.EmptyString
+[       OK ] FormatterExTest.EmptyString (0 ms)
+[----------] 1 test from FormatterExTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FormatterExTest.EmptyString" end time: Sep 19 03:23 MSK
+"FormatterExTest.EmptyString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: FormatterExTest.StringWithSpaces
+6/10 Test: FormatterExTest.StringWithSpaces
+Command: "/home/kali/empty4/lab04/build/tests/formatter_ex_test/formatter_ex_test" "--gtest_filter=FormatterExTest.StringWithSpaces" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/formatter_ex_test
+"FormatterExTest.StringWithSpaces" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FormatterExTest.StringWithSpaces
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FormatterExTest
+[ RUN      ] FormatterExTest.StringWithSpaces
+[       OK ] FormatterExTest.StringWithSpaces (0 ms)
+[----------] 1 test from FormatterExTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FormatterExTest.StringWithSpaces" end time: Sep 19 03:23 MSK
+"FormatterExTest.StringWithSpaces" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: SolverTest.BasicEquation
+7/10 Test: SolverTest.BasicEquation
+Command: "/home/kali/empty4/lab04/build/tests/solver_test/solver_test" "--gtest_filter=SolverTest.BasicEquation" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/solver_test
+"SolverTest.BasicEquation" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = SolverTest.BasicEquation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SolverTest
+[ RUN      ] SolverTest.BasicEquation
+[       OK ] SolverTest.BasicEquation (0 ms)
+[----------] 1 test from SolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SolverTest.BasicEquation" end time: Sep 19 03:23 MSK
+"SolverTest.BasicEquation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: SolverTest.ZeroACoefficient
+8/10 Test: SolverTest.ZeroACoefficient
+Command: "/home/kali/empty4/lab04/build/tests/solver_test/solver_test" "--gtest_filter=SolverTest.ZeroACoefficient" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/solver_test
+"SolverTest.ZeroACoefficient" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = SolverTest.ZeroACoefficient
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SolverTest
+[ RUN      ] SolverTest.ZeroACoefficient
+[       OK ] SolverTest.ZeroACoefficient (0 ms)
+[----------] 1 test from SolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SolverTest.ZeroACoefficient" end time: Sep 19 03:23 MSK
+"SolverTest.ZeroACoefficient" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: SolverTest.NegativeCoefficients
+9/10 Test: SolverTest.NegativeCoefficients
+Command: "/home/kali/empty4/lab04/build/tests/solver_test/solver_test" "--gtest_filter=SolverTest.NegativeCoefficients" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/solver_test
+"SolverTest.NegativeCoefficients" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = SolverTest.NegativeCoefficients
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SolverTest
+[ RUN      ] SolverTest.NegativeCoefficients
+[       OK ] SolverTest.NegativeCoefficients (0 ms)
+[----------] 1 test from SolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SolverTest.NegativeCoefficients" end time: Sep 19 03:23 MSK
+"SolverTest.NegativeCoefficients" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: SolverTest.FractionalResult
+10/10 Test: SolverTest.FractionalResult
+Command: "/home/kali/empty4/lab04/build/tests/solver_test/solver_test" "--gtest_filter=SolverTest.FractionalResult" "--gtest_also_run_disabled_tests"
+Directory: /home/kali/empty4/lab04/build/tests/solver_test
+"SolverTest.FractionalResult" start time: Sep 19 03:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = SolverTest.FractionalResult
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SolverTest
+[ RUN      ] SolverTest.FractionalResult
+[       OK ] SolverTest.FractionalResult (0 ms)
+[----------] 1 test from SolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SolverTest.FractionalResult" end time: Sep 19 03:23 MSK
+"SolverTest.FractionalResult" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 19 03:23 MSK

@@ -1,0 +1,11 @@
+FormatterTest.BasicFormatting 1 0.00509275
+FormatterTest.EmptyString 1 0.00386428
+FormatterTest.StringWithSpaces 1 0.00315155
+FormatterExTest.BasicFormatting 1 0.00332475
+FormatterExTest.EmptyString 1 0.00332113
+FormatterExTest.StringWithSpaces 1 0.00303632
+SolverTest.BasicEquation 1 0.00356335
+SolverTest.ZeroACoefficient 1 0.00293863
+SolverTest.NegativeCoefficients 1 0.00395587
+SolverTest.FractionalResult 1 0.0037451
+---
